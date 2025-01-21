@@ -7,6 +7,11 @@
 - **`info/`**
   - `segmentation_axons_explained.md`: Опис процесу сегментації зображень (_на прикладі аксонів_).
 
+- **`data/`**
+  -  `raw_data/`: Дані, для роботи.
+  -  `example_image.tif`: Зображення, що було використане в якості прикладу.
+    _Примітка:_ Через обмеження данна папка відсутня в репозиторії. Дані для роботи можна завантажити [за посиланням](https://drive.google.com/drive/folders/10Wn-dTwN0UtLtcn8KfkROa7r5fPOKVH-?usp=drive_link). 
+
 - **`notebooks/`**
   - `segmentation_axon.ipynb`: Jupyter Notebook з демонстрацією процесу підготовки зображень та їх сегментації (_на прикладі аксонів_).
   - `analysis_axon.Rmd`: Код з демонстрацією аналізу даних, отриманих на основі зображень (_поки не додано, на R_)
@@ -22,8 +27,6 @@
     - `segmented_data_myelin/`: Папка з результатами сегментації мієлінових оболонок (_у формі окремих .csv для кожного початкового зображення_).
 
 - **`screenshots/`** 
-
-Дані для роботи можна завантажити [за посиланням](https://drive.google.com/drive/folders/10Wn-dTwN0UtLtcn8KfkROa7r5fPOKVH-?usp=drive_link).
 
 ## Як почати роботу
 
