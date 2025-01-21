@@ -71,3 +71,4 @@
 1. [Шикарний репозиторій](https://github.com/wisstock/BDS3_2024_img_analysis.git), який був створений для курсу з аналізу зображень на Biological Data Science Summer School (_2024, Uzhhorod_) моїм колегою, Борисом Оліфіровим. Рекомендую звернути увагу на ноутбуки BDS^3_2024_img_intro.ipynb та BDS^3_2024_img_advanced.ipynb
 
 ## Рекомендована література
+blah blah
