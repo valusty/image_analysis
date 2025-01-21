@@ -39,12 +39,26 @@
    conda create -n nervesegment python>3.12 jupyter numpy matplotlib pandas scipy scikit-image sympy
    ```
    По суті, це виглядає якось так:
+   
    ![readme_01](screenshots/readme_01.png)
    _Рис. 1. Створення середовища в conda prompt._
 
    Про коректне створення середовища буде свідчити наступне:
+   
    ![readme_02](screenshots/readme_02.png)
    _Рис. 2. завершення створення середовища в conda prompt._
+
+   Тепер, як власне вказано безпосередньо в condа, середовище можна активувати:
+   
+   ``` bash
+   conda activate nervesegment
+   ```
+
+   ..aбо деактивувати:
+
+   ``` bash
+   conda deactivate nervesegment
+   ```
 5. oiiaioiio
 
 ## Що ще можна переглянути?
