@@ -64,9 +64,14 @@
    ![readme_03](screenshots/readme_03.png)
    
    _Рис. 3. Завантаження розширення для роботи з мовою програмування Python в Visual Studio Code. Червоне - вкладка Extensions, для пошуку розширення. Зелений - необхідне розширення._
+6. Оберіть Kernel в Visual Studio Code:
+      
+   ![readme_04](screenshots/readme_04.png)
+   
+   _Рис. 4. Вибір Kernel в Visual Studio Code. Червоне - вкладка Kernel, для пошуку необхідного середовища. Зелений - необхідне середовище._ 
 
 
 ## Що ще можна переглянути?
-1. [Шикарний репозиторій](https://github.com/wisstock/BDS3_2024_img_analysis.git), який був створений для курсу з аналізу зображень на Biological Data Science Summer School (_2024, Uzhhorod_) моїм колегою, Борисом Оліфіровим. Рекомендую звернути увагу на ноутбуки BDS^3_2024_img_intro.ipynb та BDS^3_2024_img_advanced.ipynb
+1. [Шикарний репозиторій](https://github.com/wisstock/BDS3_2024_img_analysis.git), який був створений для курсу з аналізу зображень на Biological Data Science Summer School (_2024, Uzhhorod_) моїм колегою, Борисом Оліфіровим, та по суті, був основою, на якій побудований контент в нашому репозиторії. Рекомендую звернути увагу на ноутбуки BDS^3_2024_img_intro.ipynb та BDS^3_2024_img_advanced.ipynb
 
 ## Рекомендована література
