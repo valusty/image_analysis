@@ -25,12 +25,20 @@
     - `segmented_outputs_myelin/`: Папка з результатами сегментації мієлінових оболонок (_у формі зображень для кожного етапу сегментації_).
     - `segmented_data_myelin/`: Папка з результатами сегментації мієлінових оболонок (_у формі окремих .csv для кожного початкового зображення_).
 
+- **`screenshots/`** 
+
 ## Як почати роботу
 
 ### Що необхідно для сегментації
 
-1. [Встановіть](https://www.python.org/downloads/) Python 3.12 або новішу версію.
-2. Встановіть менеджер оточень для встановлення бібліотек [miniconda](https://docs.anaconda.com/miniconda/)
+1. [Завантажте](https://www.python.org/downloads/) Python 3.12 або новішу версію.
+2. Завантажте менеджер оточень для встановлення бібліотек [miniconda](https://docs.anaconda.com/miniconda/).
+3. Після встановлення miniconda, відкрийте Anaconda Prompt та створіть середовище для роботи:
+   
+   ``` bash
+   conda create -n nervesegment python>3.12 jupyter numpy matplotlib pandas scipy scikit-image sympy
+   ```
+4. oiiaioiio
 
 ## Що ще можна переглянути?
 1. [Шикарний репозиторій](https://github.com/wisstock/BDS3_2024_img_analysis.git), який був створений для курсу з аналізу зображень на Biological Data Science Summer School (_2024, Uzhhorod_) моїм колегою, Борисом Оліфіровим. Рекомендую звернути увагу на ноутбуки BDS^3_2024_img_intro.ipynb та BDS^3_2024_img_advanced.ipynb
