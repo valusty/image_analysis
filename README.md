@@ -23,7 +23,7 @@
 
 - **`screenshots/`** 
 
-Дані для роботи можна завантажити [за посиланням](https://drive.google.com/drive/folders/10Wn-dTwN0UtLtcn8KfkROa7r5fPOKVH-?usp=drive_link)
+Дані для роботи можна завантажити [за посиланням](https://drive.google.com/drive/folders/10Wn-dTwN0UtLtcn8KfkROa7r5fPOKVH-?usp=drive_link).
 
 ## Як почати роботу
 
