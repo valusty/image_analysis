@@ -38,7 +38,14 @@
    ``` bash
    conda create -n nervesegment python>3.12 jupyter numpy matplotlib pandas scipy scikit-image sympy
    ```
-4. oiiaioiio
+   По суті, це виглядає якось так:
+   ![readme_01](screenshots/readme_01.png)
+   _Рис. 1. Створення середовища в conda prompt._
+
+   Про коректне створення середовища буде свідчити наступне:
+   ![readme_02](screenshots/readme_02.png)
+   _Рис. 2. завершення створення середовища в conda prompt._
+5. oiiaioiio
 
 ## Що ще можна переглянути?
 1. [Шикарний репозиторій](https://github.com/wisstock/BDS3_2024_img_analysis.git), який був створений для курсу з аналізу зображень на Biological Data Science Summer School (_2024, Uzhhorod_) моїм колегою, Борисом Оліфіровим. Рекомендую звернути увагу на ноутбуки BDS^3_2024_img_intro.ipynb та BDS^3_2024_img_advanced.ipynb
