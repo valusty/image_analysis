@@ -46,7 +46,7 @@
    Про коректне створення середовища буде свідчити наступне:
    
    ![readme_02](screenshots/readme_02.png)
-   _Рис. 2. завершення створення середовища в conda prompt._
+   _Рис. 2. Завершення створення середовища в conda prompt._
 
    Тепер, як власне вказано безпосередньо в condа, середовище можна активувати:
    
@@ -54,12 +54,15 @@
    conda activate nervesegment
    ```
 
-   ..aбо деактивувати:
+   ... aбо деактивувати:
 
    ``` bash
    conda deactivate nervesegment
    ```
-5. oiiaioiio
+4. Також, для зручності роботи, завантажте інтегроване середовище розробки [Visual Studio Code](https://code.visualstudio.com/). Перед роботою завантажте розширення для роботи на мові програмування Python:
+      
+   ![readme_03](screenshots/readme_03.png)
+   _Рис. 3. Завантаження розширення для роботи з мовою програмування Python в Visual Studio Code. Червоне - вкладка Extensions, для пошуку розширення. Зелений - необхідне розширення._
 
 ## Що ще можна переглянути?
 1. [Шикарний репозиторій](https://github.com/wisstock/BDS3_2024_img_analysis.git), який був створений для курсу з аналізу зображень на Biological Data Science Summer School (_2024, Uzhhorod_) моїм колегою, Борисом Оліфіровим. Рекомендую звернути увагу на ноутбуки BDS^3_2024_img_intro.ipynb та BDS^3_2024_img_advanced.ipynb
