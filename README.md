@@ -8,8 +8,7 @@
   - `segmentation_axons_explained.md`: Опис процесу сегментації зображень (_на прикладі аксонів_).
 
 - **`data/`**
-
-  _Через обмеження, данна папка відсутня безпосередньо в репозиторії. Дані для роботи можна завантажити [за посиланням](https://drive.google.com/drive/folders/10Wn-dTwN0UtLtcn8KfkROa7r5fPOKVH-?usp=drive_link)._ 
+ _(через обмеження, данна папка відсутня безпосередньо в репозиторії. Дані для роботи можна завантажити [за посиланням](https://drive.google.com/drive/folders/10Wn-dTwN0UtLtcn8KfkROa7r5fPOKVH-?usp=drive_link))._ 
   -  `raw_data/`: Дані, для роботи.
   -  `example_image.tif`: Зображення, що було використане в якості прикладу.
 
