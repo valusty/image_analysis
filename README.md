@@ -29,9 +29,8 @@
 
 ### Що необхідно для сегментації
 
-1. [Завантажте](https://www.python.org/downloads/) Python 3.12 або новішу версію.
-2. Завантажте менеджер оточень для встановлення бібліотек [miniconda](https://docs.anaconda.com/miniconda/).
-3. Після встановлення miniconda, відкрийте Anaconda Prompt та створіть середовище для роботи:
+1. Завантажте менеджер оточень для встановлення бібліотек [miniconda](https://docs.anaconda.com/miniconda/).
+2. Після встановлення miniconda, відкрийте Anaconda Prompt та створіть середовище для роботи:
    
    ``` bash
    conda create -n nervesegment python>3.12 jupyter numpy matplotlib pandas scipy scikit-image sympy
@@ -59,12 +58,12 @@
    ``` bash
    conda deactivate nervesegment
    ```
-5. Також, для зручності роботи, завантажте інтегроване середовище розробки [Visual Studio Code](https://code.visualstudio.com/). Перед роботою завантажте розширення для роботи на мові програмування Python:
+3. Також, для зручності роботи, завантажте інтегроване середовище розробки [Visual Studio Code](https://code.visualstudio.com/). Перед роботою завантажте розширення для роботи на мові програмування Python:
       
    ![readme_03](screenshots/readme_03.png)
    
    _Рис. 3. Завантаження розширення для роботи з мовою програмування Python в Visual Studio Code. Червоне - вкладка Extensions, для пошуку розширення. Зелений - необхідне розширення._
-6. Оберіть Kernel в Visual Studio Code:
+4. Оберіть Kernel в Visual Studio Code:
       
    ![readme_04](screenshots/readme_04.png)
    
