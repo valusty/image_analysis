@@ -109,33 +109,33 @@
 
 ## Рекомендовані посилання
 
-1. [Introduction to Image Processing with Python](https://datacarpentry.github.io/image-processing/01-introduction.html)
+[Introduction to Image Processing with Python](https://datacarpentry.github.io/image-processing/01-introduction.html)
 
-2. [Python Підручник](https://w3schoolsua.github.io/python/index.html#gsc.tab=0)
+[Python Підручник](https://w3schoolsua.github.io/python/index.html#gsc.tab=0)
 
-3. [SciPy в Python](https://www.guru99.com/uk/scipy-tutorial.html)
+[SciPy в Python](https://www.guru99.com/uk/scipy-tutorial.html)
 
-4. [SciPy User Guide](https://docs.scipy.org/doc/scipy-1.15.0/tutorial/index.html)
+[SciPy User Guide](https://docs.scipy.org/doc/scipy-1.15.0/tutorial/index.html)
 
-5. [NumPy User Guide](https://numpy.org/doc/stable/user/index.html#user)
+[NumPy User Guide](https://numpy.org/doc/stable/user/index.html#user)
 
-6. [Matplotlib Підручник](https://w3schoolsua.github.io/python/matplotlib_intro.html#gsc.tab=0)
+[Matplotlib Підручник](https://w3schoolsua.github.io/python/matplotlib_intro.html#gsc.tab=0)
 
-7. [Using Matplotlib](https://matplotlib.org/stable/users/index)
+[Using Matplotlib](https://matplotlib.org/stable/users/index)
 
-8. [Scikit-image User Guide](https://scikit-image.org/docs/stable/user_guide/install.html)
+[Scikit-image User Guide](https://scikit-image.org/docs/stable/user_guide/install.html)
 
-9. [Working With Scikit-image](https://datacarpentry.github.io/image-processing/03-skimage-images.html)
+[Working With Scikit-image](https://datacarpentry.github.io/image-processing/03-skimage-images.html)
 
-10. [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+[10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 
-11. [Pandas Cookbook](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html)
+[Pandas Cookbook](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html)
 
 ## Може бути цікаво
 
-1. [Ten Simple Rules for Better Figures](https://inria.hal.science/hal-01063732/document)
+[Ten Simple Rules for Better Figures](https://inria.hal.science/hal-01063732/document)
 
-2. [Learning Python, Fourth Edition by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
+[Learning Python, Fourth Edition by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 
 ## Ліцензія
 Цей проект ліцензований відповідно до [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Повний текст ліцензії можна знайти у файлі [LICENSE](LICENSE).
