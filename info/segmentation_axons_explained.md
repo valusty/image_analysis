@@ -120,7 +120,7 @@ plt.suptitle('Max projection')
 plt.tight_layout()
 plt.show()
 ```
-![max_projection](/results/results_axon/segmented_data_axon/example_image/01_max_projection.png)
+![max_projection](/results/results_axon/segmented_outputs_axon/example_image/01_max_projection.png)
 
 
 ## Preprocessing
@@ -151,9 +151,9 @@ plt.tight_layout()
 plt.show()
 ```
 
-![correction_plot](/results/results_axon/segmented_data_axon/example_image/02_correction_plot.png)
-![median_filter](/results/results_axon/segmented_data_axon/example_image/03_median_filter.png)
-![multi_otsu](/results/results_axon/segmented_data_axon/example_image/04_multi_otsu.png)
-![multi_otsu_regions](/results/results_axon/segmented_data_axon/example_image/05_multi_otsu_separated_regions.png)
-![opening_filter](/results/results_axon/segmented_data_axon/example_image/06_opening_filter.png)
-![watershed](/results/results_axon/segmented_data_axon/example_image/07_watershed.png)
+![correction_plot](/results/results_axon/segmented_outputs_axon/example_image/02_correction_plot.png)
+![median_filter](/results/results_axon/segmented_outputs_axon/example_image/03_median_filter.png)
+![multi_otsu](/results/results_axon/segmented_outputs_axonexample_image/04_multi_otsu.png)
+![multi_otsu_regions](/results/results_axon/segmented_outputs_axon/example_image/05_multi_otsu_separated_regions.png)
+![opening_filter](/results/results_axon/segmented_outputs_axon/example_image/06_opening_filter.png)
+![watershed](/results/results_axon/segmented_outputs_axon/example_image/07_watershed.png)
